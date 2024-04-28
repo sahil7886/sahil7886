@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahil7886
 - 👀 I’m interested in all things Tech 
-- 🌱 I’m currently learning Java, Python and C
+- 🌱 I currently work with Java, Python, C and C++.
 - 📚 I'm currently studying Computer Science and Data Science at Purdue University
 
 <!---
