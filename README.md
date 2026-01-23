@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahil7886
-- 👀 I’m interested in consumer-tech, blockchain, AI, cool UI and making money.
+- 👀 I’m interested in consumer-tech, blockchain, AI, cool UI and money.
 - 📚 I'm currently studying Computer Science and Data Science at Purdue University, with a concentration in building software that can replace me.
 
 <!---
